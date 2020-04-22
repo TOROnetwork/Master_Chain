@@ -1,0 +1,49 @@
+{
+  "name": "chain3",
+  "version": "0.1.22",
+  "description": "LBR JavaScript API",
+  "main": "dist/chain3.js",
+  "dependencies": {
+    "bignumber.js": ">=2.0.0",
+    "crypto-js": "~3.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LBRChain/chain3.git"
+  },
+  "homepage": "https://github.com/LBRChain/chain3",
+  "bugs": {
+    "url": "https://github.com/LBRChain/chain3/issues"
+  },
+  "keywords": [
+    "LBR",
+    "javascript",
+    "API"
+  ],
+  "authors": [
+    {
+      "name": "LBR lab",
+      "email": "info@LBR.io",
+      "homepage": "https://github.com/LBRChain"
+    }
+  ],
+  "license": "LGPL-3.0",
+  "ignore": [
+    "example",
+    "lib",
+    "node_modules",
+    "package.json",
+    "package-init.js",
+    "package.js",
+    ".versions",
+    ".bowerrc",
+    ".editorconfig",
+    ".gitignore",
+    ".jshintrc",
+    ".npmignore",
+    ".travis.yml",
+    "gulpfile.js",
+    "index.js",
+    "**/*.txt"
+  ]
+}
